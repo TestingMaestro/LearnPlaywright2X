@@ -21,6 +21,16 @@ LearnPlaywright2X/
 │   ├── 07_Identifier_Rules_By_Opencode.js
 │   ├── 08_Identifier_Part2.js
 │   └── 09_comments.js
+├── chapter_04_Javacript_concepts/      # Variables, scope & hoisting
+│   ├── 10_var_let_const.js
+│   ├── 11_functions.js
+│   ├── 12_var_explained.js
+│   ├── 13_let_people_love.js
+│   ├── 14_const_explained.js
+│   ├── 15_var_function_scope.js
+│   ├── 16_let_block_scope.js
+│   ├── 17_function_hoisting.js
+│   └── 17_var_hoisting.js
 ├── vs_code_and_other_js_important/  # VS Code shortcuts & other references
 │   └── VSCode_shortcut_keys_windows.md
 └── README.md
@@ -53,6 +63,7 @@ LearnPlaywright2X/
 - Node.js libraries and objects
 - JavaScript core concepts (variables, data types, operators)
 - Identifiers, literals, and comments
+- Variables (`var`, `let`, `const`), scope, and hoisting
 
 ### Playwright Basics
 - Understanding Playwright setup and configuration
@@ -77,6 +88,17 @@ node chapter_02_Javascript_Concepts/05_JS_Basics.js
 # Identifiers and literals
 node chapter_03_JS_Identifier_literals/06_Identifier_Rules.js
 node chapter_03_JS_Identifier_literals/09_comments.js
+
+# Variables, scope and hoisting
+node chapter_04_Javacript_concepts/10_var_let_const.js
+node chapter_04_Javacript_concepts/11_functions.js
+node chapter_04_Javacript_concepts/12_var_explained.js
+node chapter_04_Javacript_concepts/13_let_people_love.js
+node chapter_04_Javacript_concepts/14_const_explained.js
+node chapter_04_Javacript_concepts/15_var_function_scope.js
+node chapter_04_Javacript_concepts/16_let_block_scope.js
+node chapter_04_Javacript_concepts/17_function_hoisting.js
+node chapter_04_Javacript_concepts/17_var_hoisting.js
 ```
 
 ## 📖 Additional Resources
