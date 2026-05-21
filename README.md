@@ -30,7 +30,20 @@ LearnPlaywright2X/
 │   ├── 15_var_function_scope.js
 │   ├── 16_let_block_scope.js
 │   ├── 17_function_hoisting.js
-│   └── 17_var_hoisting.js
+│   ├── 18_var_hoisting.js
+│   ├── 19_let_hoisting.js
+│   ├── 20_let_hoisting_block.js
+│   ├── 21_const_TDZ.js
+│   └── 22_Jr_QA_TDZ.js
+├── chapter_05_Literals/               # JavaScript literals (string, number, null, undefined, template literals)
+│   ├── 22_Literal.js
+│   ├── 23_null_undefined.js
+│   ├── 24_null.js
+│   ├── 25_literals_all.js
+│   ├── 26_Literal_Number_all_by_opencode.js
+│   ├── 27_string_literal.js
+│   ├── 28_Template_literal.js
+│   └── 29_Backtick_single_double.js
 ├── vs_code_and_other_js_important/  # VS Code shortcuts & other references
 │   └── VSCode_shortcut_keys_windows.md
 └── README.md
@@ -64,6 +77,7 @@ LearnPlaywright2X/
 - JavaScript core concepts (variables, data types, operators)
 - Identifiers, literals, and comments
 - Variables (`var`, `let`, `const`), scope, and hoisting
+- JavaScript literals: string, number, null, undefined, template literals
 
 ### Playwright Basics
 - Understanding Playwright setup and configuration
@@ -98,7 +112,21 @@ node chapter_04_Javacript_concepts/14_const_explained.js
 node chapter_04_Javacript_concepts/15_var_function_scope.js
 node chapter_04_Javacript_concepts/16_let_block_scope.js
 node chapter_04_Javacript_concepts/17_function_hoisting.js
-node chapter_04_Javacript_concepts/17_var_hoisting.js
+node chapter_04_Javacript_concepts/18_var_hoisting.js
+node chapter_04_Javacript_concepts/19_let_hoisting.js
+node chapter_04_Javacript_concepts/20_let_hoisting_block.js
+node chapter_04_Javacript_concepts/21_const_TDZ.js
+node chapter_04_Javacript_concepts/22_Jr_QA_TDZ.js
+
+# Literals
+node chapter_05_Literals/22_Literal.js
+node chapter_05_Literals/23_null_undefined.js
+node chapter_05_Literals/24_null.js
+node chapter_05_Literals/25_literals_all.js
+node chapter_05_Literals/26_Literal_Number_all_by_opencode.js
+node chapter_05_Literals/27_string_literal.js
+node chapter_05_Literals/28_Template_literal.js
+node chapter_05_Literals/29_Backtick_single_double.js
 ```
 
 ## 📖 Additional Resources
