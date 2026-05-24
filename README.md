@@ -44,6 +44,22 @@ LearnPlaywright2X/
 │   ├── 27_string_literal.js
 │   ├── 28_Template_literal.js
 │   └── 29_Backtick_single_double.js
+├── chapter_06_Operators/              # JavaScript operators (arithmetic, comparison, logical, ternary, etc.)
+│   ├── 30_Operator.js
+│   ├── 31_Arithematic_Operator.js
+│   ├── 32_Modulo_Op.js
+│   ├── 33_Exponential_Op.js
+│   ├── 34_IQ_Compound_Ops.js
+│   ├── 35_Comparison_Op.js
+│   ├── 36_Comparison_Strict_loose.js
+│   ├── 37_IQ_Loose_Strict.js
+│   ├── 38_Confusing_Comparison.js
+│   ├── 39_Logical_Operators.js
+│   ├── 40_String_concat.js
+│   ├── 41_Ternary_Op.js
+│   ├── 42_Type_op.js
+│   ├── 43_Increment_Decrement_Op.js
+│   └── 44_Null_Op.js
 ├── vs_code_and_other_js_important/  # VS Code shortcuts & other references
 │   └── VSCode_shortcut_keys_windows.md
 └── README.md
@@ -78,6 +94,7 @@ LearnPlaywright2X/
 - Identifiers, literals, and comments
 - Variables (`var`, `let`, `const`), scope, and hoisting
 - JavaScript literals: string, number, null, undefined, template literals
+- JavaScript operators: arithmetic, comparison (loose `==` and strict `===`), logical, ternary, typeof, increment/decrement
 
 ### Playwright Basics
 - Understanding Playwright setup and configuration
@@ -127,6 +144,23 @@ node chapter_05_Literals/26_Literal_Number_all_by_opencode.js
 node chapter_05_Literals/27_string_literal.js
 node chapter_05_Literals/28_Template_literal.js
 node chapter_05_Literals/29_Backtick_single_double.js
+
+# Operators
+node chapter_06_Operators/30_Operator.js
+node chapter_06_Operators/31_Arithematic_Operator.js
+node chapter_06_Operators/32_Modulo_Op.js
+node chapter_06_Operators/33_Exponential_Op.js
+node chapter_06_Operators/34_IQ_Compound_Ops.js
+node chapter_06_Operators/35_Comparison_Op.js
+node chapter_06_Operators/36_Comparison_Strict_loose.js
+node chapter_06_Operators/37_IQ_Loose_Strict.js
+node chapter_06_Operators/38_Confusing_Comparison.js
+node chapter_06_Operators/39_Logical_Operators.js
+node chapter_06_Operators/40_String_concat.js
+node chapter_06_Operators/41_Ternary_Op.js
+node chapter_06_Operators/42_Type_op.js
+node chapter_06_Operators/43_Increment_Decrement_Op.js
+node chapter_06_Operators/44_Null_Op.js
 ```
 
 ## 📖 Additional Resources
