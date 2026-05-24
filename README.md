@@ -60,6 +60,8 @@ LearnPlaywright2X/
 │   ├── 42_Type_op.js
 │   ├── 43_Increment_Decrement_Op.js
 │   └── 44_Null_Op.js
+├── LiveCodingTest/                    # Live coding examples and quick tests
+│   └── Coding.js
 ├── vs_code_and_other_js_important/  # VS Code shortcuts & other references
 │   └── VSCode_shortcut_keys_windows.md
 └── README.md
@@ -161,6 +163,9 @@ node chapter_06_Operators/41_Ternary_Op.js
 node chapter_06_Operators/42_Type_op.js
 node chapter_06_Operators/43_Increment_Decrement_Op.js
 node chapter_06_Operators/44_Null_Op.js
+
+# Live Coding / Quick Tests
+node LiveCodingTest/Coding.js
 ```
 
 ## 📖 Additional Resources
