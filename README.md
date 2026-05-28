@@ -56,12 +56,19 @@ LearnPlaywright2X/
 │   ├── 38_Confusing_Comparison.js
 │   ├── 39_Logical_Operators.js
 │   ├── 40_String_concat.js
-│   ├── 41_Ternary_Op.js
-│   ├── 42_Type_op.js
-│   ├── 43_Increment_Decrement_Op.js
-│   └── 44_Null_Op.js
-├── LiveCodingTest/                    # Live coding examples and quick tests
-│   └── Coding.js
+  │   ├── 41_Ternary_Op.js
+  │   ├── 42_Type_op.js
+  │   ├── 43_Increment_Decrement_Op.js
+  │   ├── 44_Null_Op.js
+  │   ├── 45_Nested_Ternary.js
+  │   ├── 46_Post_Increment_op.js
+  │   ├── 47_IQ_Increment_Dec.js
+  │   └── 48_Advanced_inc_dec_op.js
+  ├── LiveCodingTest/                    # Live coding examples and quick tests
+  ├── Tasks_2026/                        # Daily tasks and practice problems (2026)
+  │   ├── 01_18th_May_Max_two.js
+  │   ├── 02_18th_May_Max_three.js
+  │   └── 03_18th_May_incre_decre_exprsn.js
 ├── vs_code_and_other_js_important/  # VS Code shortcuts & other references
 │   └── VSCode_shortcut_keys_windows.md
 └── README.md
@@ -96,7 +103,7 @@ LearnPlaywright2X/
 - Identifiers, literals, and comments
 - Variables (`var`, `let`, `const`), scope, and hoisting
 - JavaScript literals: string, number, null, undefined, template literals
-- JavaScript operators: arithmetic, comparison (loose `==` and strict `===`), logical, ternary, typeof, increment/decrement
+- JavaScript operators: arithmetic, comparison (loose `==` and strict `===`), logical, ternary (including nested), typeof, increment/decrement (basic, post-increment, IQ, and advanced expressions)
 
 ### Playwright Basics
 - Understanding Playwright setup and configuration
@@ -163,9 +170,15 @@ node chapter_06_Operators/41_Ternary_Op.js
 node chapter_06_Operators/42_Type_op.js
 node chapter_06_Operators/43_Increment_Decrement_Op.js
 node chapter_06_Operators/44_Null_Op.js
+node chapter_06_Operators/45_Nested_Ternary.js
+node chapter_06_Operators/46_Post_Increment_op.js
+node chapter_06_Operators/47_IQ_Increment_Dec.js
+node chapter_06_Operators/48_Advanced_inc_dec_op.js
 
-# Live Coding / Quick Tests
-node LiveCodingTest/Coding.js
+# Tasks (Daily Practice)
+node Tasks_2026/01_18th_May_Max_two.js
+node Tasks_2026/02_18th_May_Max_three.js
+node Tasks_2026/03_18th_May_incre_decre_exprsn.js
 ```
 
 ## 📖 Additional Resources
