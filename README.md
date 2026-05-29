@@ -65,7 +65,7 @@ LearnPlaywright2X/
   │   ├── 47_IQ_Increment_Dec.js
   │   └── 48_Advanced_inc_dec_op.js
   ├── LiveCodingTest/                    # Live coding examples and quick tests
-  ├── Tasks_2026/                        # Daily tasks and practice problems (2026)
+  ├── Z_Tasks_2026/                        # Daily tasks and practice problems (2026)
   │   ├── 01_18th_May_Max_two.js
   │   ├── 02_18th_May_Max_three.js
   │   └── 03_18th_May_incre_decre_exprsn.js
@@ -176,9 +176,9 @@ node chapter_06_Operators/47_IQ_Increment_Dec.js
 node chapter_06_Operators/48_Advanced_inc_dec_op.js
 
 # Tasks (Daily Practice)
-node Tasks_2026/01_18th_May_Max_two.js
-node Tasks_2026/02_18th_May_Max_three.js
-node Tasks_2026/03_18th_May_incre_decre_exprsn.js
+node Z_Tasks_2026/01_18th_May_Max_two.js
+node Z_Tasks_2026/02_18th_May_Max_three.js
+node Z_Tasks_2026/03_18th_May_incre_decre_exprsn.js
 ```
 
 ## 📖 Additional Resources
