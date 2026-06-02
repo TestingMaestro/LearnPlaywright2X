@@ -64,11 +64,33 @@ LearnPlaywright2X/
   │   ├── 46_Post_Increment_op.js
   │   ├── 47_IQ_Increment_Dec.js
   │   └── 48_Advanced_inc_dec_op.js
+  ├── chapter_07_if_else/                # JavaScript if-else statements
+  │   ├── 48_If_else.js
+  │   ├── 49_if_elseIf_else.js
+  │   ├── 50_Real_if_else.js
+  │   ├── 51_API_IF_Else.js
+  │   ├── 52_IQ_IF_Else.js
+  │   ├── 53_If_else_real.js
+  │   └── 54_IQ.js
+  ├── chapter_08_Switch_Statement/       # JavaScript switch statements
+  │   ├── 59_Switch.js
+  │   ├── 60_No_Break_Switch.js
+  │   ├── 61_Default.js
+  │   ├── 62_RealTime_Ex.js
+  │   ├── 63_Switch_Group.js
+  │   ├── 64_IQ.js
+  │   ├── 65_IQ2.js
+  │   ├── 66_IQ3.js
+  │   ├── 67_IQ4.js
+  │   └── 68_IQ6.js
   ├── LiveCodingTest/                    # Live coding examples and quick tests
   ├── Z_Tasks_2026/                        # Daily tasks and practice problems (2026)
   │   ├── 01_18th_May_Max_two.js
   │   ├── 02_18th_May_Max_three.js
-  │   └── 03_18th_May_incre_decre_exprsn.js
+  │   ├── 03_18th_May_incre_decre_exprsn.js
+  │   ├── 03_20th_May_EvenorOdd copy.js
+  │   ├── 03_20th_May_GradeCalulator.js
+  │   └── 05_20th_May_LeapYear.js
 ├── vs_code_and_other_js_important/  # VS Code shortcuts & other references
 │   └── VSCode_shortcut_keys_windows.md
 └── README.md
@@ -104,6 +126,8 @@ LearnPlaywright2X/
 - Variables (`var`, `let`, `const`), scope, and hoisting
 - JavaScript literals: string, number, null, undefined, template literals
 - JavaScript operators: arithmetic, comparison (loose `==` and strict `===`), logical, ternary (including nested), typeof, increment/decrement (basic, post-increment, IQ, and advanced expressions)
+- JavaScript `if-else` and `if-elseif-else` conditional statements
+- JavaScript `switch` statements (with break, default, grouped cases, and IQ problems)
 
 ### Playwright Basics
 - Understanding Playwright setup and configuration
@@ -175,10 +199,34 @@ node chapter_06_Operators/46_Post_Increment_op.js
 node chapter_06_Operators/47_IQ_Increment_Dec.js
 node chapter_06_Operators/48_Advanced_inc_dec_op.js
 
+# If-Else Statements
+node chapter_07_if_else/48_If_else.js
+node chapter_07_if_else/49_if_elseIf_else.js
+node chapter_07_if_else/50_Real_if_else.js
+node chapter_07_if_else/51_API_IF_Else.js
+node chapter_07_if_else/52_IQ_IF_Else.js
+node chapter_07_if_else/53_If_else_real.js
+node chapter_07_if_else/54_IQ.js
+
+# Switch Statements
+node chapter_08_Switch_Statement/59_Switch.js
+node chapter_08_Switch_Statement/60_No_Break_Switch.js
+node chapter_08_Switch_Statement/61_Default.js
+node chapter_08_Switch_Statement/62_RealTime_Ex.js
+node chapter_08_Switch_Statement/63_Switch_Group.js
+node chapter_08_Switch_Statement/64_IQ.js
+node chapter_08_Switch_Statement/65_IQ2.js
+node chapter_08_Switch_Statement/66_IQ3.js
+node chapter_08_Switch_Statement/67_IQ4.js
+node chapter_08_Switch_Statement/68_IQ6.js
+
 # Tasks (Daily Practice)
 node Z_Tasks_2026/01_18th_May_Max_two.js
 node Z_Tasks_2026/02_18th_May_Max_three.js
 node Z_Tasks_2026/03_18th_May_incre_decre_exprsn.js
+node Z_Tasks_2026/"03_20th_May_EvenorOdd copy.js"
+node Z_Tasks_2026/03_20th_May_GradeCalulator.js
+node Z_Tasks_2026/05_20th_May_LeapYear.js
 ```
 
 ## 📖 Additional Resources
