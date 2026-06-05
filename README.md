@@ -83,14 +83,18 @@ LearnPlaywright2X/
   │   ├── 66_IQ3.js
   │   ├── 67_IQ4.js
   │   └── 68_IQ6.js
+  ├── chapter_13_Strings/                # JavaScript Strings (properties, methods, palindromes, anagrams)
+  │   └── JavaScript_CheatSheet.md
   ├── LiveCodingTest/                    # Live coding examples and quick tests
-  ├── Z_Tasks_2026/                        # Daily tasks and practice problems (2026)
+  ├── Z_Tasks_2026/                      # Daily tasks and practice problems (2026)
   │   ├── 01_18th_May_Max_two.js
   │   ├── 02_18th_May_Max_three.js
   │   ├── 03_18th_May_incre_decre_exprsn.js
-  │   ├── 03_20th_May_EvenorOdd copy.js
-  │   ├── 03_20th_May_GradeCalulator.js
-  │   └── 05_20th_May_LeapYear.js
+  │   ├── 04_20th_May_EvenorOdd copy.js
+  │   ├── 06_20th_May_GradeCalulator.js
+  │   ├── 07_20th_May_LeapYear.js
+  │   ├── 08_3rd_June_String_Palindrome.js
+  │   └── 09_3rd_June_anagrams.js
 ├── vs_code_and_other_js_important/  # VS Code shortcuts & other references
 │   └── VSCode_shortcut_keys_windows.md
 └── README.md
@@ -128,6 +132,7 @@ LearnPlaywright2X/
 - JavaScript operators: arithmetic, comparison (loose `==` and strict `===`), logical, ternary (including nested), typeof, increment/decrement (basic, post-increment, IQ, and advanced expressions)
 - JavaScript `if-else` and `if-elseif-else` conditional statements
 - JavaScript `switch` statements (with break, default, grouped cases, and IQ problems)
+- JavaScript Strings: properties, instance methods, static methods, regex flags, palindromes, and anagrams
 
 ### Playwright Basics
 - Understanding Playwright setup and configuration
@@ -220,13 +225,18 @@ node chapter_08_Switch_Statement/66_IQ3.js
 node chapter_08_Switch_Statement/67_IQ4.js
 node chapter_08_Switch_Statement/68_IQ6.js
 
+# Strings
+node chapter_13_Strings/JavaScript_CheatSheet.md
+
 # Tasks (Daily Practice)
 node Z_Tasks_2026/01_18th_May_Max_two.js
 node Z_Tasks_2026/02_18th_May_Max_three.js
 node Z_Tasks_2026/03_18th_May_incre_decre_exprsn.js
-node Z_Tasks_2026/"03_20th_May_EvenorOdd copy.js"
-node Z_Tasks_2026/03_20th_May_GradeCalulator.js
-node Z_Tasks_2026/05_20th_May_LeapYear.js
+node Z_Tasks_2026/04_20th_May_EvenorOdd\ copy.js
+node Z_Tasks_2026/06_20th_May_GradeCalulator.js
+node Z_Tasks_2026/07_20th_May_LeapYear.js
+node Z_Tasks_2026/08_3rd_June_String_Palindrome.js
+node Z_Tasks_2026/09_3rd_June_anagrams.js
 ```
 
 ## 📖 Additional Resources
