@@ -85,6 +85,22 @@ LearnPlaywright2X/
   │   └── 68_IQ6.js
   ├── chapter_13_Strings/                # JavaScript Strings (properties, methods, palindromes, anagrams)
   │   └── JavaScript_CheatSheet.md
+  ├── chapter_14_Objects/                # JavaScript Objects (creation, properties, methods, destructuring, spread)
+  │   ├── 124_Objects.js
+  │   ├── 125_Objects2.js
+  │   ├── 126_Objects_Creation.js
+  │   ├── 127_static_vs_dynamic.js
+  │   ├── 128_ObjectsUsein_RealAutomation.js
+  │   ├── 129_adding newProperty.js
+  │   ├── 130_Primitive_vs_Reference.js
+  │   ├── 131_Obj_Examples.js
+  │   ├── 132_IQ.js
+  │   ├── 133_function_in_Obj.js
+  │   ├── 134_Obj_Destructuring.js
+  │   ├── 135_Object_Get_SET_Methods.js
+  │   ├── 135_spread_copy.js
+  │   ├── 136_IQ.js
+  │   └── 136_Obj_Real.js
   ├── LiveCodingTest/                    # Live coding examples and quick tests
   ├── Z_Tasks_2026/                      # Daily tasks and practice problems (2026)
   │   ├── 01_18th_May_Max_two.js
@@ -133,6 +149,7 @@ LearnPlaywright2X/
 - JavaScript `if-else` and `if-elseif-else` conditional statements
 - JavaScript `switch` statements (with break, default, grouped cases, and IQ problems)
 - JavaScript Strings: properties, instance methods, static methods, regex flags, palindromes, and anagrams
+- JavaScript Objects: creation, static vs dynamic, real automation use, adding properties, primitive vs reference, examples, functions in objects, destructuring, getters/setters, spread/copy, and IQ problems
 
 ### Playwright Basics
 - Understanding Playwright setup and configuration
@@ -227,6 +244,23 @@ node chapter_08_Switch_Statement/68_IQ6.js
 
 # Strings
 node chapter_13_Strings/JavaScript_CheatSheet.md
+
+# Objects
+node chapter_14_Objects/124_Objects.js
+node chapter_14_Objects/125_Objects2.js
+node chapter_14_Objects/126_Objects_Creation.js
+node chapter_14_Objects/127_static_vs_dynamic.js
+node chapter_14_Objects/128_ObjectsUsein_RealAutomation.js
+node "chapter_14_Objects/129_adding newProperty.js"
+node chapter_14_Objects/130_Primitive_vs_Reference.js
+node chapter_14_Objects/131_Obj_Examples.js
+node chapter_14_Objects/132_IQ.js
+node chapter_14_Objects/133_function_in_Obj.js
+node chapter_14_Objects/134_Obj_Destructuring.js
+node chapter_14_Objects/135_Object_Get_SET_Methods.js
+node chapter_14_Objects/135_spread_copy.js
+node chapter_14_Objects/136_IQ.js
+node chapter_14_Objects/136_Obj_Real.js
 
 # Tasks (Daily Practice)
 node Z_Tasks_2026/01_18th_May_Max_two.js
